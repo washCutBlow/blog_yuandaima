@@ -7,13 +7,13 @@ title: 洗剪吹的学习记录
 subtitle: 每天都在进步～
 description: 穷就多学习
 keywords: 
-author: 洗剪吹
+author: 洗剪吹【zlcapture@163.com】
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://washcutblow.com
 root: /
 permalink: :title/
 permalink_defaults:

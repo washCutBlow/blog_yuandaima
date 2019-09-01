@@ -95,3 +95,4 @@ func Niu(h1,h2 hands) int {
 	return compareWithoutNiu(h1,h2)
 }
 ```
+
